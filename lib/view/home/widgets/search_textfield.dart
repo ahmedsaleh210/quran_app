@@ -14,10 +14,10 @@ class SearchHeaderDelegate extends SliverPersistentHeaderDelegate {
   }
 
   @override
-  double get maxExtent => 56.0; // Fixed height of the SearchTextField
+  double get maxExtent => 56.0.h;
 
   @override
-  double get minExtent => 56.0; // Fixed height of the SearchTextField
+  double get minExtent => 56.0.h;
 
   @override
   bool shouldRebuild(covariant SliverPersistentHeaderDelegate oldDelegate) => false;
