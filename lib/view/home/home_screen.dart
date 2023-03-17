@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:quran_app/view/home/widgets/ayat_item.dart';
-import 'package:quran_app/core/components/default_textfield.dart';
+import 'package:quran_app/view/home/widgets/search_textfield.dart';
 import 'package:quran_app/view/home/widgets/surah_item.dart';
 
 import '../../data/dummy_data.dart';
